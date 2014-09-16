@@ -3,8 +3,8 @@
 module.exports = function( grunt ) {
 	// Definição dos arquivos js
 	var filesJS = [
-            'src/js/APP.js', 
-            'src/js/APP.Home.js'
+            'src/js/SSP.js', 
+            'src/js/SSP.Home.js'
         ];
 
 	// Load all tasks

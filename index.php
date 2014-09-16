@@ -16,7 +16,7 @@
 
 	<!-- execute - start -->
 	<script>
-		APP.iniciar();
+		SSP.init();
 	</script>
 	<!-- execute - end -->
 </body>

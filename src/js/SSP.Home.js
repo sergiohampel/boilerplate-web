@@ -1,6 +1,6 @@
-var APP = APP || {};
+var SSP = SSP || {};
 
-APP.Home = {
+SSP.Home = {
 	_BASEPATH: '../images/',
 	_currentScreen: null,
 
